@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: courses/introduction-to-linguistics/mit24_900s22probset4sent6.png
+file: /ol-ocw-studio-app/courses/24-900-introduction-to-linguistics-spring-2022/mit24_900s22probset4sent6.png
 file_size: 45070
 file_type: image/png
 image_metadata:
