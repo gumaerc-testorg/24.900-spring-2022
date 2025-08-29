@@ -4,7 +4,7 @@ content_type: resource
 description: This file contains an image from the lecture notes for 24.900 Introduction
   to Linguistics, taught by Prof. Norvin W. Richards
 draft: false
-file: courses/introduction-to-linguistics/mit24_900s22probset4sent3.png
+file: /ol-ocw-studio-app/courses/24-900-introduction-to-linguistics-spring-2022/mit24_900s22probset4sent3.png
 file_size: 47415
 file_type: image/png
 image_metadata:
