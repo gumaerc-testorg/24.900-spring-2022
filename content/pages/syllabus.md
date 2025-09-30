@@ -35,7 +35,7 @@ More generally, if there is any conflict between information on the course slide
 This classroom is designed to make recordings of the lectures, and of the slides and the blackboard. I’ve never used this system before, so I don’t know how good the recordings will be. The recordings will be made freely available to anyone who:
 
 - generally attends class, but has had to miss a class, or
-- has to miss class for reasons that [Student Support Services (S3)](https://studentlife.mit.edu/s3) can document for me.
+- has to miss class for reasons that {{% resource_link "0e27712a-aafe-4b72-8a88-e7755871926d" "Student Support Services (S3)" %}} can document for me.
 
 In neither case do you have to give me a reason for needing the recording. If you have to miss class for a reason that S3 can help you with, then you should contact S3, and they will send me an e-mail which will not give me any details about your situation—it will just say something like “\[your name\] has been in touch with us, and we agree that they should be given access to the recordings of the class for \[dates\]."
 
@@ -51,7 +51,7 @@ Some of these problem sets will also require you to do linguistic fieldwork. For
 
 ### Papers
 
-[HASS CI](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement) subjects must require at least 5000 words of writing, divided among 3–5 assignments. Of these assignments, at least one must be revised and resubmitted. HASS CI subjects should further offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class participation. In order to guarantee sufficient attention to student writing and substantial opportunity for oral expression, the maximum number of students per section in a HASS CI subject is 18.
+{{% resource_link "71da4f98-4544-42f2-bee2-f05928235bea" "HASS CI" %}} subjects must require at least 5000 words of writing, divided among 3–5 assignments. Of these assignments, at least one must be revised and resubmitted. HASS CI subjects should further offer students substantial opportunity for oral expression, through presentations, student-led discussion, or class participation. In order to guarantee sufficient attention to student writing and substantial opportunity for oral expression, the maximum number of students per section in a HASS CI subject is 18.
 
 You will be required to write three relatively short papers:
 
@@ -63,7 +63,7 @@ You will also submit an additional polished paper, which may be a revised versio
 
 We will discuss the topics of these papers as the semester progresses. Your opportunities for “oral expression” will arise in the fieldwork parts of the course, as well as in class and in recitation.
 
-Two writing advisors from the [Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) have been assigned to this course, who will be available to help you develop, structure, and revise your papers. We strongly encourage all students to make use of this resource, and in some cases we may require it for your benefit as writers.
+Two writing advisors from the {{% resource_link "b8827a85-aecf-4bfc-a2bb-a57e1ac35c74" "Writing and Communication Center" %}} have been assigned to this course, who will be available to help you develop, structure, and revise your papers. We strongly encourage all students to make use of this resource, and in some cases we may require it for your benefit as writers.
 
 ### Due dates:
 
@@ -93,4 +93,4 @@ Please read these guidelines carefully. In case of academic dishonesty, ignoranc
 - All print and online sources consulted in the process of writing a paper must be explicitly acknowledged in the text of your paper, and listed in the references section. All quotations must be indicated and fully referenced.
 - If we determine that the Honesty and Collaboration Policy described above has been violated in any assignment, we will take appropriate measures. At a minimum, that assignment will receive a grade of zero and will count as unsubmitted. We will also not hesitate to refer the matter to the Office of Student Citizenship and the Committee on Discipline.
 
-If you have not done so already, please familiarize yourself with the MIT [Academic Integrity guidelines](https://integrity.mit.edu/).
+If you have not done so already, please familiarize yourself with the MIT {{% resource_link "b6363b58-074e-4061-a450-8ecd72909bbb" "Academic Integrity guidelines" %}}.

@@ -12,7 +12,7 @@ uid: 936c1024-0499-4c07-b78f-f56eb1ec5e91
 
 In this paper, you will report on the results of your linguistic fieldwork. Imagine that linguists knew nothing about your fieldwork language until you got to work on it, and you are the first linguist to conduct work on this language. You should write a preliminary “grammatical sketch” of the language. You will report and analyze the data from your own field notes; you should include only the data that you have collected yourself, not data gathered from other sources. You should assume an audience that knows a bit about linguistics—you should imagine that they know everything we’ve talked about in class—but nothing about your particular language. 
 
-If you want to see what a grammatical sketch should look like, there is one very good example of one here: [https://julietstanton.github.io/files/stanton_saafi_sketch.pdf (PDF - 4 MB)](https://julietstanton.github.io/files/stanton_saafi_sketch.pdf) 
+If you want to see what a grammatical sketch should look like, there is one very good example of one here: {{% resource_link "f7a82c92-0d66-48d6-b16a-8355c54bc529" "https://julietstanton.github.io/files/stanton_saafi_sketch.pdf (PDF - 4 MB)" %}} 
 
 This sketch was written on the basis of much more work than you have had a chance to do; you certainly aren’t expected to provide this level of detail. But this sketch can give you a sense of the kinds of things people write about in this kind of work. 
 
@@ -32,7 +32,7 @@ Your sketch should be written in full sentences and paragraphs, offering data th
 
 For the ‘language’ line, you should write the language in a way that will enable us to read it. If the language uses the Roman alphabet or has a standard Romanization, feel free to use that; if not, you should use IPA. 
 
-For the ‘gloss’ line, you should use any abbreviations that you feel you need, and explain to us what they mean in a footnote at the beginning of the sketch (the footnote can start with “In this paper, I will use the following abbreviations: INAN=inanimate, PL= plural…”). Don’t worry about using the “wrong” abbreviations; you won’t be graded on whether your terms are the ones linguists generally use. If you’d like to see some guidelines that some linguists sometimes follow, there are some at [https://www.eva.mpg.de/lingua/resources/glossing-rules.php](https://www.eva.mpg.de/lingua/resources/glossing-rules.php).
+For the ‘gloss’ line, you should use any abbreviations that you feel you need, and explain to us what they mean in a footnote at the beginning of the sketch (the footnote can start with “In this paper, I will use the following abbreviations: INAN=inanimate, PL= plural…”). Don’t worry about using the “wrong” abbreviations; you won’t be graded on whether your terms are the ones linguists generally use. If you’d like to see some guidelines that some linguists sometimes follow, there are some at {{% resource_link "64f0f144-0bab-4479-95d7-c40eee84c209" "https://www.eva.mpg.de/lingua/resources/glossing-rules.php" %}}.
 
 The numbering allows you to refer to the examples in your text (that is you can say things like “we see in (1a) that Passamaquoddy verbs agree with both the subject and the object”). 
 
