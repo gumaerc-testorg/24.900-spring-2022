@@ -6,30 +6,30 @@ uid: 642f9ed2-92a6-4d94-a8b2-1999612071b3
 ---
 ## Readings for Written Assignment 1
 
-Berent, I., Lennertz, T., Jun, J., Moreno, M., and Smolensky, P. (2008). ["Language Universals in Human Brains."](https://www.pnas.org/doi/10.1073/pnas.0801469105) *PNAS* 105(14), 5321–5325.
+Berent, I., Lennertz, T., Jun, J., Moreno, M., and Smolensky, P. (2008). {{% resource_link "ade07ece-696a-4738-b4b4-c7b84ff216df" "\"Language Universals in Human Brains.\"" %}} *PNAS* 105(14), 5321–5325.
 
-Culbertson, J., and Adger, D. (2014). ["Language Learners Privilege Structured Meaning over Surface Frequency."](https://www.pnas.org/doi/10.1073/pnas.1320525111) *PNAS* 111(16), 5842–5847.
+Culbertson, J., and Adger, D. (2014). {{% resource_link "266c070e-856b-490f-b6d8-6bdad3defcda" "\"Language Learners Privilege Structured Meaning over Surface Frequency.\"" %}} *PNAS* 111(16), 5842–5847.
 
 ## Optional Reading
 
-Young, V. A. (2010). ["Should Writers Use They Own English?"](https://pubs.lib.uiowa.edu/ijcs/article/id/29866/) *Iowa Journal of Cultural Studies* 12(1), 110–118.
+Young, V. A. (2010). {{% resource_link "96b9caaa-9933-4f37-932b-4f1e101f3bc7" "\"Should Writers Use They Own English?\"" %}} *Iowa Journal of Cultural Studies* 12(1), 110–118.
 
 ## Other Resources
 
-[IPA Chart](https://www.internationalphoneticassociation.org/IPAcharts/inter_chart_2018/IPA_2018.html) (from the International Phonetic Association website)
+{{% resource_link "4b3cb0bd-21da-447e-a0e2-5719d993defc" "IPA Chart" %}} (from the International Phonetic Association website)
 
-[Seeing Speech](https://www.seeingspeech.ac.uk/ipa-charts/) (IPA chart with MRIs)
+{{% resource_link "ec9d0dab-eff8-41bb-b433-80dd2a4ac621" "Seeing Speech" %}} (IPA chart with MRIs)
 
-[IPA Palette](https://www.blugs.com/IPAPalette/) (an easy way to type IPA on a MAC)
+{{% resource_link "78288884-6a6c-4dd1-ad8d-73d1e2d443dc" "IPA Palette" %}} (an easy way to type IPA on a MAC)
 
-[IPA Wordle](https://manishearth.github.io/ipadle/?fbclid=IwAR3i7eP3JxLqsIMP3rbSOkgaw3UMwLdL_JwCMzW7Kx4JDZ3LcVjfb5NoF3E)
+{{% resource_link "dbf7e873-d4f9-42de-93d1-d5d87e6abfd6" "IPA Wordle" %}}
 
-[Another IPA Wordle](https://heardle.glitch.me/?fbclid=IwAR23TCWW0pyYZ8UYxDILHxcNy8jJkzvrX8yw5DhRdnlndn2R0SC1GijBCzk)
+{{% resource_link "e038de56-ccc9-4e79-9001-4355c1e368c8" "Another IPA Wordle" %}}
 
-[Speech Perception (sinewave synthesis)](https://haskinslabs.org/research/features-and-demos/sinewave-synthesis)
+{{% resource_link "8f854d6a-c830-4778-97b5-a23f376b109b" "Speech Perception (sinewave synthesis)" %}}
 
-[More on Speech Perception (a talking piano)](https://www.futilitycloset.com/2021/11/07/key-testimony/)
+{{% resource_link "b7528c56-4447-4938-9580-79c29d409027" "More on Speech Perception (a talking piano)" %}}
 
-[The McGurk Effect (YouTube)](https://www.youtube.com/watch?v=aFPtc8BVdJk)
+{{% resource_link "67c3b8c9-d43a-4ee3-9aba-4b8c94a26735" "The McGurk Effect (YouTube)" %}}
 
-[UCLA Phonetics Lab Data](http://www.phonetics.ucla.edu/index/sounds.html)
+{{% resource_link "bc418865-508c-4535-b734-14df4ba99b73" "UCLA Phonetics Lab Data" %}}
